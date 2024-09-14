@@ -48,30 +48,6 @@ body.light-theme header {
     border-bottom: 2px solid #1a73e8;
 }
 
-/* Theme Toggle Button */
-.theme-btn {
-    margin-top: 10px;
-    background-color: #bb86fc;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-.theme-btn:hover {
-    background-color: #9b5bcf;
-}
-
-body.light-theme .theme-btn {
-    background-color: #1a73e8;
-}
-
-body.light-theme .theme-btn:hover {
-    background-color: #1458b5;
-}
-
 /* Navigation Styles */
 nav ul {
     list-style: none;
